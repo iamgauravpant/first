@@ -5,8 +5,8 @@ Welcome to kitchen
 kheer
 pasta
 chicken fry
-
-
+beans
+pizza
 
 
 
@@ -21,5 +21,8 @@ chicken fry
 
 thank you :)
 
+done my changes
+
 
 FINAL COPY
+
